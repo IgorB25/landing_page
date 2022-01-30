@@ -7,7 +7,7 @@
 
 
 .navbar{
-    
+    padding: 5px;
     display: flex;
     align-items: center;
 }
@@ -55,8 +55,13 @@ header{
 }
 
 .header_photo{
-    
     flex: 1;
+}  
+
+.placeholder_img{
+    margin: 150px;
+    width: 400px;
+    height: 200px;
 }
 
 .sign_up{
