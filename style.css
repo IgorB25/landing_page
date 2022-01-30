@@ -55,13 +55,19 @@ header{
 }
 
 .header_photo{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
     flex: 1;
+    justify-content: center;
+   
+    
 }  
 
 .placeholder_img{
-    margin: 150px;
-    width: 400px;
-    height: 200px;
+   width: 450px;
+   height: 200px;
+   
 }
 
 .sign_up{
