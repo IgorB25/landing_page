@@ -35,7 +35,6 @@ header{
     flex: 1;
     justify-content: center;
     gap: 50px;
-    margin-right: 100px;  
     list-style-type: none;
 }
 .header_body{
@@ -46,6 +45,7 @@ header{
 }
 
 .header_text{
+    
     display: block;
     flex: 1;
     flex-wrap: wrap;
